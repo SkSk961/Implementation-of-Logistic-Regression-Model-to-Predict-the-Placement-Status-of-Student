@@ -1,4 +1,4 @@
-# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
+[# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
 
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
@@ -17,8 +17,8 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ## Program:
 ```
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: R . Nithish Aaditiyaa
-RegisterNumber:  25011876(212225040287)
+Developed by: sharankumar G
+RegisterNumber:  212224100055
 
 
 import pandas as pd
@@ -80,3 +80,4 @@ cm_display.plot()
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
+](https://github.com/SkSk961/SGD-Regressor-for-Multivariate-Linear-Regression/blob/main/README.md)
